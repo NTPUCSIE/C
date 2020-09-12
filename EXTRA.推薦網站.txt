@@ -1,0 +1,4 @@
+C plusplus 網站連結: https://www.cplusplus.com/
+C Tutorials Point 網站連結: https://www.tutorialspoint.com/cprogramming/index.htm
+Learn C 網站連結: https://www.learn-c.org/
+Zero Judge 網站連結: https://zerojudge.tw/
