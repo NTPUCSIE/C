@@ -1,0 +1,15 @@
+標頭檔可視為是一種 "具有特定變數及函式樣本的檔案" => 詳見06.函式(Function)介紹
+程式最上方可透過#include特定的標頭檔以取得相對應的樣本。
+
+*若要載入系統標頭檔，格式為:#include <系統標頭檔名稱>
+*而如果是自己所建立的標頭檔，格式則為:#include "標頭檔名稱"
+*各標頭檔定義之變數及函式列表連結:http://www.cplusplus.com/reference/clibrary/
+
+
+範例如下:
+
+    #include <stdio.h>
+	即可使用常見的輸入函式scanf()、輸出函式printf()及文件末尾常數EOF等...
+
+    #include <stdlib.h>
+	即可使用偽亂數函式rand()、動態宣告函式malloc()及排序函式qsort()等...
