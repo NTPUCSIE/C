@@ -20,8 +20,12 @@
 	}
 
 	int func(char input){ //實作函式本體
+	//int:宣告函式回傳值型態，func:程式名稱，char:函式接收值型態，input:接收值名稱
+		
 		if(input != 'Z')
 			return 1;
 		else
 			return 0;
 	}
+	
+	
